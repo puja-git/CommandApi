@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandApi", "CommandApi.csproj", "{C724B1B7-27AA-46FC-9DFF-C17DF926927F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionCommand", "..\FunctionCommand\FunctionCommand.csproj", "{C3AFAC69-2BA6-4599-A78D-77864DA82553}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionCommand", "..\FunctionCommand\FunctionCommand.csproj", "{A9F72526-198F-4606-91F7-C285E9510C81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{C724B1B7-27AA-46FC-9DFF-C17DF926927F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C724B1B7-27AA-46FC-9DFF-C17DF926927F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C724B1B7-27AA-46FC-9DFF-C17DF926927F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C3AFAC69-2BA6-4599-A78D-77864DA82553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C3AFAC69-2BA6-4599-A78D-77864DA82553}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C3AFAC69-2BA6-4599-A78D-77864DA82553}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C3AFAC69-2BA6-4599-A78D-77864DA82553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9F72526-198F-4606-91F7-C285E9510C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F72526-198F-4606-91F7-C285E9510C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F72526-198F-4606-91F7-C285E9510C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F72526-198F-4606-91F7-C285E9510C81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
